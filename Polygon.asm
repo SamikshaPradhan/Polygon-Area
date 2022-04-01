@@ -1,5 +1,3 @@
-; Name: Samiksha Pradhan
-; Course: CS 340
 ; Program: Polygon
 ; Description: Write a program to find the area of any polygon given its vertexes. 
 ;   Inputs:	The input is the set of polygons. 
